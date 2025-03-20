@@ -1,0 +1,135 @@
+{
+    "eventsArr": [
+      {
+        "id": 1,
+        "name": "Rock Music Festival",
+        "date": "2025-07-15",
+        "time": "18:00",
+        "duration": "4 hours",
+        "location": "Riyadh",
+        "price": 150,
+        "capacity": 5000,
+        "image": "./images/3.png",
+        "description": "A thrilling night of rock music featuring top bands.",
+        "category": "Music"
+      },
+      {
+        "id": 2,
+        "name": "Tech Conference 2025",
+        "date": "2025-09-10",
+        "time": "09:00",
+        "duration": "2 days",
+        "location": "Dubai",
+        "price": 300,
+        "capacity": 2000,
+        "image": "./images/9.png",
+        "description": "Explore the latest innovations in AI and technology.",
+        "category": "Technology"
+      },
+      {
+        "id": 3,
+        "name": "Art & Culture Exhibition",
+        "date": "2025-06-30",
+        "time": "10:00",
+        "duration": "3 days",
+        "location": "Egypt",
+        "price": 120,
+        "capacity": 1500,
+        "image": "./images/22.jpg",
+        "description": "An inspiring collection of artwork from global artists.",
+        "category": "Art"
+      },
+      {
+        "id": 4,
+        "name": "Food & Drinks Expo",
+        "date": "2025-08-22",
+        "time": "11:00",
+        "duration": "1 day",
+        "location": "Jeddah",
+        "price": 100,
+        "capacity": 3000,
+        "image": "./images/16.png",
+        "description": "A delicious experience with world-class chefs and cuisines.",
+        "category": "Food"
+      },
+      {
+        "id": 5,
+        "name": "Marathon 2025",
+        "date": "2025-11-05",
+        "time": "07:00",
+        "duration": "6 hours",
+        "location": "Doha",
+        "price": 80,
+        "capacity": 10000,
+        "image": "./images/26.jpg",
+        "description": "A challenging race for runners of all levels.",
+        "category": "Sports"
+      },
+      {
+        "id": 6,
+        "name": "International Film Festival",
+        "date": "2025-10-12",
+        "time": "19:00",
+        "duration": "5 days",
+        "location": "Beirut",
+        "price": 200,
+        "capacity": 5000,
+        "image": "./images/31.png",
+        "description": "Screenings of top films from around the world.",
+        "category": "Entertainment"
+      },
+      {
+        "id": 7,
+        "name": "Business & Leadership 2025",
+        "date": "2025-05-20",
+        "time": "08:30",
+        "duration": "3 days",
+        "location": "Abu Dhabi",
+        "price": 500,
+        "capacity": 1000,
+        "image": "./images/33.jpg",
+        "description": "A networking event for business leaders and entrepreneurs.",
+        "category": "Business"
+      },
+      {
+        "id": 8,
+        "name": "Gaming Expo 2025",
+        "date": "2025-09-18",
+        "time": "10:00",
+        "duration": "2 days",
+        "location": "Kuwait",
+        "price": 90,
+        "capacity": 8000,
+        "image": "./images/39.jpg",
+        "description": "Experience the latest in gaming technology and tournaments.",
+        "category": "Gaming"
+      },
+      {
+        "id": 9,
+        "name": "Space Exploration Forum",
+        "date": "2025-07-05",
+        "time": "13:00",
+        "duration": "1 day",
+        "location": "Muscat",
+        "price": 250,
+        "capacity": 600,
+        "image": "./images/42.png",
+        "description": "A discussion on the future of space travel and discovery.",
+        "category": "Science"
+      },
+      {
+        "id": 10,
+        "name": "AI Innovations Summit 2025",
+        "date": "2025-10-05",
+        "time": "09:00",
+        "duration": "3 days",
+        "location": "Berlin",
+        "price": 100,
+        "capacity": 5000,
+        "image": "./images/49.png",
+        "description": "Discover groundbreaking AI advancements, keynote speeches",
+        "category": "Artificial Intelligence"
+      }     
+    ]
+}
+  

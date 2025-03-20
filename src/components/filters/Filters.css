@@ -1,0 +1,21 @@
+.btn-filter .btn{
+    background-image: linear-gradient(to right,#fe3f97,#fd946a) !important;
+    border: 0 !important;
+    height: 45px;
+    transition: 0.5;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+.btn-filter .btn:hover{
+    background-image: linear-gradient(to left,#fe3f97,#fd946a) !important;
+}
+.filter p{color: var(--text-color);}
+.css-13cymwt-control{height: 40px;}
+@media (max-width:767.5px) {
+    .css-13cymwt-control{height: 50px;width: 100%;}
+    .filters{padding:0 5px;}
+    .filter p{display: none;}
+    .filter .btn{width: 100%;}
+    .btn-filter{padding: 0 5px;}
+    .btn-filter .btn{height: 50px;margin-top: 20px;}  
+}

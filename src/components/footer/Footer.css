@@ -1,0 +1,9 @@
+.footer{
+    margin-top: 40px;
+    border-top: 1px solid #ccc;
+    color: var(--text-color);
+}
+.footer h3{
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 1;
+}

@@ -1,0 +1,9 @@
+.search input{
+    width: 100%;
+    border-radius: 5px;
+    height: 40px;
+}
+@media (max-width:767.5px) {
+    .search{padding: 0 5px;}
+    .search input{height: 50px;}
+}

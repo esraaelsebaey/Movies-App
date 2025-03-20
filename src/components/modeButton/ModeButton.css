@@ -1,0 +1,12 @@
+.mode .icon{
+    font-size: 25px;
+    transform: rotateY(-180deg);
+    margin-top: 25px;
+    transition: .5s;
+    color: var(--color);
+}
+.mode .icon:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    transform: scale(0.7) rotateY(180deg);
+}

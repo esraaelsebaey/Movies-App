@@ -1,0 +1,7 @@
+.not-found h1{
+    background: linear-gradient(to right,#fe3f97,#fd946a);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Josefin Sans", sans-serif;
+}
+.not-found{height: 280px;}
