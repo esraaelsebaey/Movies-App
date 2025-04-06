@@ -1,22 +1,10 @@
-import React from "react";
-import ModeButton from "../modeButton/ModeButton";
+import React from 'react';
 import './Header.css';
 
 function Header(){
     return(
-        <div className="header">
-            <div className="container-fluid container-md">
-                <div className="row">
-                    <div className="col-6">
-                        <h3 className="logo mt-4">Events</h3>
-                    </div>
-                    <div className="col-6">
-                       <div className="d-flex justify-content-end">
-                          <ModeButton/>
-                       </div>
-                    </div>
-                </div>
-            </div>
+        <div className='header mt-5'>
+           <h2 className='text-center'>Header</h2> 
         </div>
     )
 }
